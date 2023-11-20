@@ -1,0 +1,36 @@
+#UserSignUp {
+  margin: 50px;
+  padding: 30px;
+  background-color: rgb(241, 241, 241);
+  border-radius: 15px;
+  text-align: center;
+}
+
+.formItemContainer {
+  margin: 30px;
+}
+
+label {
+  font-size: 18px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10px;
+}
+input {
+  margin-left: 20px;
+  width: 50%;
+  height: 30px;
+  font-size: 18px;
+  padding: 10px;
+}
+
+button {
+  margin-left: 10px;
+  font-size: 18px;
+}
+
+h1 {
+  margin-bottom: 50px;
+  margin-left: 10px;
+  text-align: center;
+}
